@@ -1,0 +1,6 @@
+C:\test\CoreMVCAndAngular2HomePage\src\CoreMVCAndAngular2HomePage\wwwroot\app\app.component.js
+C:\test\CoreMVCAndAngular2HomePage\src\CoreMVCAndAngular2HomePage\wwwroot\app\app.component.js.map
+C:\test\CoreMVCAndAngular2HomePage\src\CoreMVCAndAngular2HomePage\wwwroot\app\app.module.js
+C:\test\CoreMVCAndAngular2HomePage\src\CoreMVCAndAngular2HomePage\wwwroot\app\app.module.js.map
+C:\test\CoreMVCAndAngular2HomePage\src\CoreMVCAndAngular2HomePage\wwwroot\main.js
+C:\test\CoreMVCAndAngular2HomePage\src\CoreMVCAndAngular2HomePage\wwwroot\main.js.map
