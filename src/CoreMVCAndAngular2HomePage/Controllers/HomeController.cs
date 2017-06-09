@@ -15,8 +15,6 @@ namespace CoreMVCAndAngular2HomePage.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
-
             return View();
         }
 
